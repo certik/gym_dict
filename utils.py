@@ -9,6 +9,7 @@ def read_dict(filename):
                 print(row)
                 raise Exception("Incorrect number of columns.")
             rows.append([x.strip() for x in row])
+    rows.sort(key=lambda x: x[0])
     return rows
 
 def write_dict(filename, rows):
