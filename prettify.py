@@ -9,6 +9,9 @@ rows = []
 with open(filename, newline='') as csvfile:
     reader = csv.reader(csvfile)
     for row in reader:
+        if len(row) != 3:
+            print(row)
+            raise Exception("Incorrect number of columns.")
         rows.append([x.strip() for x in row])
 
 with open(filename, 'w', newline='') as csvfile:
