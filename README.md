@@ -1,3 +1,7 @@
+# Fitness Dictionary (English - Czech)
+
+[dict.md](https://github.com/certik/gym_dict/blob/master/dict.md)
+
 # Links
 
 http://www.powerlifter.cz/cviky/slovnik.aspx
