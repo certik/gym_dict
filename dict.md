@@ -12,7 +12,7 @@
 | burpee | angličák | http://www.bodybuilding.com/exercises/detail/view/name/burpee |
 | cable | kladka |  |
 | cable crossover fly | rozpažování s kladkou ve stoje | http://www.bodybuilding.com/exercises/detail/view/name/cable-crossover |
-| calf raise |  | https://en.wikipedia.org/wiki/Calf_raises |
+| calf raise | výpony na lýtka | https://en.wikipedia.org/wiki/Calf_raises |
 | clean | přemístění | http://www.bodybuilding.com/exercises/detail/view/name/clean |
 | crunch | zkracovačka | https://en.wikipedia.org/wiki/Crunch_(exercise) |
 | deadlift | mrtvý tah/pozved | https://en.wikipedia.org/wiki/Deadlift |
