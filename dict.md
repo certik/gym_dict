@@ -38,7 +38,7 @@
 | muscle-up | výtah z visu do vzporu na hrazdě/kruzích | http://www.bodybuilding.com/exercises/detail/view/name/muscle-up |
 | plate | kotouček |  |
 | pullup | shyb | http://www.bodybuilding.com/exercises/detail/view/name/pullups |
-| pushdown |  |  |
+| pushdown | triceps na horní kladce |  |
 | pushup | klik | http://www.bodybuilding.com/exercises/detail/view/name/pushups |
 | rear delts | zadní delty |  |
 | reverse grip bench | tlaky podhmatem |  |
@@ -46,9 +46,9 @@
 | shoulder press/overhead press | tlaky ve stoje | https://en.wikipedia.org/wiki/Overhead_press |
 | side lateral raises | upažování ve stoje | http://www.bodybuilding.com/exercises/detail/view/name/side-lateral-raise |
 | sit up | leh sed | http://www.bodybuilding.com/exercises/detail/view/name/sit-up |
-| sled pull | tahání zátěže |  |
+| sled pull | tahání zátěže | http://www.bodybuilding.com/exercises/detail/view/name/sled-drag-harness |
 | speed squat | dynamický dřep | http://www.bodybuilding.com/exercises/detail/view/name/speed-squats |
 | squat | dřep | https://en.wikipedia.org/wiki/Squat_(exercise) |
-| treadmill | běžící pás |  |
-| triceps extension |  | https://en.wikipedia.org/wiki/Lying_triceps_extensions |
+| treadmill | běžící pás | https://en.wikipedia.org/wiki/Treadmill |
+| triceps extension | tricepsová extenze v leže | https://en.wikipedia.org/wiki/Lying_triceps_extensions |
 | walking lunge | výpady v chůzi | http://www.bodybuilding.com/exercises/detail/view/name/walking-lunge-with-overhead-weight |
